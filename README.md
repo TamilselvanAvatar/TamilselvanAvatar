@@ -4,4 +4,4 @@
 - 💞️ I know Java, Javascript, HTML, SQL, React, Spring
 - 📫 How to reach me : linkedin.com/in/tamilselvan-arunachalam-685732192
 
-✨ I don't know unless i try it ✨
+✨ I don't know unless I try it ✨
