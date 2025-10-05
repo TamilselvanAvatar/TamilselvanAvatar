@@ -1,13 +1,35 @@
+## 👨‍💻 Tamilselvan Arunachalam | Full-Stack Developer
+👋 Hi there! I'm Tamilvan, an experienced developer passionate about building robust and scalable web applications. My interests lie equally in creating clean, responsive Front-End experiences and designing reliable Back-End.
 
-   - 👋 Hi, I’m @TamilselvanAvatar
-   - 👀 I’m interested in Front and back end development
-   - 🌱 I’m currently learning Python
-   - 💞️ I know Java, Javascript, HTML, SQL, React,Spring Boot, Perl and shell scripting
-   - 📫 How to reach me : linkedin.com/in/tamilselvan-arunachalam-685732192
+## 🛠️ Technical Expertise
+I possess a strong foundation across modern programming languages and frameworks:
 
-     <em>🌱 Inspired words:</em>🌱 
+| Category | Skills & Technologies |
+| :-- | :-- |
+| Languages | Java, JavaScript, SQL, HTML |
+| Front-End | React |
+| Back-End  | Spring Boot |
+| Database  | SQL |
 
-         ✨ There is nothing we can't learn  ✨ 
-         ✨ It is not over until I win  ✨ 
-         ✨ I don't know unless I try it ✨ 
-         ☘☘ Never Give up🌹🌹
+## 🌱 Growth & Learning
+I believe in continuous improvement and am currently expanding my skill set.
+ - Currently Learning: Python
+
+## 💬 Connect & Collaborate
+I'm always open to discussing new projects or collaborating on innovative ideas.
+
+| Channel | Details | 
+| :--- | :--- | 
+| GitHub | `@TamilselvanAvatar` | 
+| LinkedIn | [Tamilselvan Arunachalam](https://linkedin.com/in/tamilselvan-arunachalam-685732192) |
+
+--
+
+## ✨ Personal Philosophy
+* Continuous Learning: <em><b>There is nothing we can't learn</b></em>
+
+* Perseverance: Success is defined by endurance; <em><b>it is not over until I win.</em></b>
+
+* Action: Knowledge is gained through application; <em><b>I don't know unless I try it.</b></em>
+
+* `☘️ Never Give Up 🌹`
